@@ -63,7 +63,7 @@ By incorporating the mentioned objectives there is
 **Doctors Dashboard**
 ![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Doctor%20Dashboard.png)
 **Treatment Dashboard**
-![Patients Dashboard]()
+![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Treatment%20Dashboard.png)
 **Visiting Dashboard**
 ![Patients Dashboard]()
 **Lab Dashboard**
