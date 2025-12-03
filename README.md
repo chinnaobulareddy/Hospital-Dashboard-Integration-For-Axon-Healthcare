@@ -61,14 +61,22 @@ By incorporating the mentioned objectives there is
  **Patients Dashboard**
 ![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Patients%20Dashboard.png)
 **Doctors Dashboard**
-![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Doctor%20Dashboard.png)
+![Doctors Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Doctor%20Dashboard.png)
 **Treatment Dashboard**
-![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Treatment%20Dashboard.png)
+![Treatment Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Treatment%20Dashboard.png)
 **Visiting Dashboard**
-![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Visiting%20Dashboard.png)
+![Visiting Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Visiting%20Dashboard.png)
 **Lab Dashboard**
-![Patients Dashboard]()
+![Lab Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Lab%20Dashboard.png)
 
+## Axon Healthcare Tableau Dashboard
+This dashboard contain three sub dashboards which are KPI overview ,Revenue Overview , Data overview dashboards.
+**KPIs Overview**
+![KPIs Overview Dashboard]()
+**Revenue Overview**
+![Revenue Overview Dashboard]()
+**Data Overview**
+![Data overview Dashboard]()
 
 
 
