@@ -19,28 +19,49 @@ To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to iden
 ## Impacts
 By incorporating the mentioned objectives there is
 1.Increased Efficiency
+
 2.Fewer Errors
+
 3.Improved Patient care
+
 4.Time Saving
+
 5.Effective Visualize Key Metrics & Trends
+
 6.Better Coordination
+
 7.Greate Patient Engagement
+
 8.Support For Research & Public Health
 ## Key Performance Indicators
 **Total Patients** – Shows overall patient volume, helping hospitals plan capacity and resources.
+
 **Total Doctors** – Indicates available medical workforce to manage patient demand.
+
 **Total Visits**  – Measures hospital footfall and service utilization trends.
+
 **Average Age of Patients** – Helps identify age-based healthcare needs and risk groups.
+
 **Top 5 Diagnosed Conditions** – Highlights the most common health issues for targeted treatment planning.
+
 **Follow-Up Rate** – Shows patient engagement and effectiveness of ongoing care.
+
 **Treatment Cost Per Visit (Avg.)** – Helps monitor affordability and financial efficiency of services.
+
 **Total Lab Tests Conducted** – Indicates diagnostic workload and resource usage.
+
 **Percentage of Abnormal Lab Results** – Helps identify population health risks and disease patterns.
+
 **Doctor Workload (Avg. Patients per Doctor)** – Measures staff burden to optimize scheduling and staffing.
+
 **Total Revenue** – Tracks the hospital’s financial performance and service profitability.
+
 ## Axon Healthcare Excel Dashboard
-**Patients Dashboard**
+ This Excel dashboard contains five categories of dashboards.It contains Patient,Doctor,Treatment,Visiting And Lab dashboards. This explains clear view of every category.
+ **Patients Dashboard**
 ![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Patients%20Dashboard.png)
+**Doctors Dashboard**
+![Patients Dashboard]()
 
 
 
