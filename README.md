@@ -3,7 +3,7 @@
 I have prepared end-to-end analytics project for Axon Health Care Center using Excel, Tableau, Power BI, and SQL.
 It includes interactive dashboards, data models, and SQL queries used for analysis and reporting.
 The project showcases key healthcare KPIs, performance insights, and a complete data-driven decision-making workflow.
-Tools Used : PowerBI,Tableau,Excel,SQL
+**Tools Used : PowerBI,Tableau,Excel,SQL**
 ## Project Summary
 To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to identify trends, improve healthcare decision-making, and support efficient resource allocation
 ## Key Objectives
@@ -81,7 +81,54 @@ By incorporating the mentioned objectives there is
 ![Data overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%203.png)
 
 ## Axon healthcare PowerBI Dashboard
-![Data overview Dashboard]()
+![Data overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/PowerBI%20Dashboard.png)
+
+## Insights
+1.Enhanced Patient Care & Safety.
+
+2.Operational Efficiency & Cost Savings.
+
+3.Population Health Management.
+
+4.Drive Better Overall Healthcare Out Comes.
+
+5.Monitor financial Performance Through KPIs.
+
+6.Improved Communication And Collaboration.
+
+7.Effective Visualise Key Metrics And Trends.
+
+8.Improved Revenue Cycle Management.
+
+9.Research And Development.
+
+## Challenges
+1.Data Fragmentation.
+
+2.Technical obstacle Due To Lack Of Standardization.
+
+3.Usability And Workflow Burnout.
+
+4.Data Volume And Archiving.
+
+5.Poor Data Integrity.
+
+6.Interoperability Issues.
+
+## Recommendations
+1.Robotic Process Automation.
+
+2.Telehealth.
+
+3.IOT Devices.
+
+4.Big Data Integration.
+
+
+
+
+
+
 
 
 
