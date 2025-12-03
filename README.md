@@ -8,9 +8,13 @@ Tools Used : PowerBI,Tableau,Excel,SQL
 To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to identify trends, improve healthcare decision-making, and support efficient resource allocation
 ## Key Objectives
 1.Build SQL-based data model connecting multiple fields.
-2.Integrated EMR , Billing and Operational data. 
+
+2.Integrated EMR , Billing and Operational data.
+
 3.Develop interactive dashboards for real-time insights
+
 4.Clean and prepare patient dataset for accurate analysis
+
 5.Automate reporting process
 ## Impacts
 By incorporating the mentioned objectives there is
