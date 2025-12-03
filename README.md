@@ -72,7 +72,7 @@ By incorporating the mentioned objectives there is
 ## Axon Healthcare Tableau Dashboard
 This dashboard contain three sub dashboards which are KPI overview ,Revenue Overview , Data overview dashboards.
 **KPIs Overview**
-![KPIs Overview Dashboard]()
+![KPIs Overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%201.png)
 **Revenue Overview**
 ![Revenue Overview Dashboard]()
 **Data Overview**
