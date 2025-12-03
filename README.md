@@ -70,11 +70,11 @@ By incorporating the mentioned objectives there is
 ![Lab Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Lab%20Dashboard.png)
 
 ## Axon Healthcare Tableau Dashboard
-This dashboard contain three sub dashboards which are KPI overview ,Revenue Overview , Data overview dashboards.
+**This dashboard contain three sub dashboards which are KPI overview ,Revenue Overview , Data overview dashboards.**
 **KPIs Overview**
 ![KPIs Overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%201.png)
 **Revenue Overview**
-![Revenue Overview Dashboard]()
+![Revenue Overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%202.png)
 **Data Overview**
 ![Data overview Dashboard]()
 
