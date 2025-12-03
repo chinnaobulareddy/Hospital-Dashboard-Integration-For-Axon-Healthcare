@@ -3,7 +3,9 @@
 I have prepared end-to-end analytics project for Axon Health Care Center using Excel, Tableau, Power BI, and SQL.
 It includes interactive dashboards, data models, and SQL queries used for analysis and reporting.
 The project showcases key healthcare KPIs, performance insights, and a complete data-driven decision-making workflow.
+
 **Tools Used : PowerBI,Tableau,Excel,SQL**
+
 ## Project Summary
 To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to identify trends, improve healthcare decision-making, and support efficient resource allocation
 ## Key Objectives
@@ -18,6 +20,7 @@ To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to iden
 5.Automate reporting process
 ## Impacts
 By incorporating the mentioned objectives there is
+
 1.Increased Efficiency
 
 2.Fewer Errors
