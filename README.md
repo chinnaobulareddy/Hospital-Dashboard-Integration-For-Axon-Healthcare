@@ -57,7 +57,8 @@ By incorporating the mentioned objectives there is
 **Total Revenue** – Tracks the hospital’s financial performance and service profitability.
 
 ## Axon Healthcare Excel Dashboard
- This Excel dashboard contains five categories of dashboards.It contains Patient,Doctor,Treatment,Visiting And Lab dashboards. This explains clear view of every category.
+**This Excel dashboard contains five categories of dashboards.It contains Patient,Doctor,Treatment,Visiting And Lab dashboards. This explains clear view of every category**
+ 
  **Patients Dashboard**
 ![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Patients%20Dashboard.png)
 **Doctors Dashboard**
@@ -71,12 +72,18 @@ By incorporating the mentioned objectives there is
 
 ## Axon Healthcare Tableau Dashboard
 **This dashboard contain three sub dashboards which are KPI overview ,Revenue Overview , Data overview dashboards.**
+
 **KPIs Overview**
 ![KPIs Overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%201.png)
 **Revenue Overview**
 ![Revenue Overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%202.png)
 **Data Overview**
+![Data overview Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Tableau%20Dashboard%203.png)
+
+## Axon healthcare PowerBI Dashboard
 ![Data overview Dashboard]()
+
+
 
 
 
