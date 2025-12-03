@@ -7,7 +7,7 @@ Tools Used : PowerBI,Tableau,Excel,SQL
 ## Project Summary
 To analyze Axon Health Care data using Excel, SQL, Tableau, and Power BI to identify trends, improve healthcare decision-making, and support efficient resource allocation
 ## Key Objectives
-1.Build SQL-based data model connecting multiple fields
+1.Build SQL-based data model connecting multiple fields.
 2.Integrated EMR , Billing and Operational data. 
 3.Develop interactive dashboards for real-time insights
 4.Clean and prepare patient dataset for accurate analysis
@@ -36,7 +36,7 @@ By incorporating the mentioned objectives there is
 **Total Revenue** – Tracks the hospital’s financial performance and service profitability.
 ## Axon Healthcare Excel Dashboard
 **Patients Dashboard**
-![Patients Dashboard]_
+![Patients Dashboard](https://github.com/chinnaobulareddy/Hospital-Dashboard-Integration-For-Axon-Healthcare/blob/83a8ab264c23749578d622138b617c8f224b6b60/Excel%20Patients%20Dashboard.png)
 
 
 
